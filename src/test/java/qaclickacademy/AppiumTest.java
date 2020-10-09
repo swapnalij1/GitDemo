@@ -9,6 +9,7 @@ public class AppiumTest {
 		public void mobile()
 		{
 			System.out.println("mobile");
+			System.out.println("web");
 		}
 		
 		@Test

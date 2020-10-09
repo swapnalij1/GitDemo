@@ -11,6 +11,13 @@ public class RestApiTest {
 		
 		System.out.println("restapiauto1");
 		System.out.println("restapiauto2");
+		
+		System.out.println("restapiauto10");
+		System.out.println("restapiauto20");
+		System.out.println("restapiauto10");
+		System.out.println("restapiauto20");
+		System.out.println("restapiauto10");
+		System.out.println("restapiauto20");
 	}
 	
 	@Test
