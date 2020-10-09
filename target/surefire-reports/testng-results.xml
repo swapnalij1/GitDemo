@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2020-09-13T20:13:02 IST" name="Suite" finished-at="2020-09-13T20:13:02 IST" duration-ms="34">
+    <groups>
+    </groups>
+    <test started-at="2020-09-13T20:13:02 IST" name="Test" finished-at="2020-09-13T20:13:02 IST" duration-ms="34">
+      <class name="qaclickacademy.AppiumTest">
+        <test-method signature="appiumauto()[pri:0, instance:qaclickacademy.AppiumTest@5b0abc94]" started-at="2020-09-13T20:13:02 IST" name="appiumauto" finished-at="2020-09-13T20:13:02 IST" duration-ms="4" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- appiumauto -->
+        <test-method signature="mobile()[pri:0, instance:qaclickacademy.AppiumTest@5b0abc94]" started-at="2020-09-13T20:13:02 IST" name="mobile" finished-at="2020-09-13T20:13:02 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mobile -->
+      </class> <!-- qaclickacademy.AppiumTest -->
+      <class name="qaclickacademy.SeleniumTest">
+        <test-method signature="jirapost()[pri:0, instance:qaclickacademy.SeleniumTest@75c072cb]" started-at="2020-09-13T20:13:02 IST" name="jirapost" finished-at="2020-09-13T20:13:02 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- jirapost -->
+        <test-method signature="selauto()[pri:0, instance:qaclickacademy.SeleniumTest@75c072cb]" started-at="2020-09-13T20:13:02 IST" name="selauto" finished-at="2020-09-13T20:13:02 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- selauto -->
+      </class> <!-- qaclickacademy.SeleniumTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
