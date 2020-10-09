@@ -21,4 +21,9 @@ public class SeleniumTest {
 	{
 		System.out.println("Newselauto");
 	}
+	@Test
+	public void New1selauto()
+	{
+		System.out.println("Newselauto");
+	}
 }

@@ -32,5 +32,12 @@ public class RestApiTest {
 		
 		System.out.println("Newpostman1");
 	}
+	@Test
+	public void New1postman()
+	{
+		System.out.println("Newpostman");
+		
+		System.out.println("Newpostman1");
+	}
 	
 }

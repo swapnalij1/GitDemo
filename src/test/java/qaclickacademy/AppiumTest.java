@@ -23,4 +23,9 @@ public class AppiumTest {
 		{
 			System.out.println("Newappiumauto");
 		}
+		@Test
+		public void New1appiumauto()
+		{
+			System.out.println("Newappiumauto");
+		}
 }
