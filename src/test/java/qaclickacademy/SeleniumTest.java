@@ -8,11 +8,17 @@ public class SeleniumTest {
 	public void jirapost()
 	{
 		System.out.println("jirapost");
+		System.out.println("selauto");
 	}
 	
 	@Test
 	public void selauto()
 	{
 		System.out.println("selauto");
+	}
+	@Test
+	public void Newselauto()
+	{
+		System.out.println("Newselauto");
 	}
 }
