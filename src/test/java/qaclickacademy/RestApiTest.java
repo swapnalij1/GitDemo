@@ -8,6 +8,9 @@ public class RestApiTest {
 	public void restapiauto()
 	{
 		System.out.println("restapiauto");
+		
+		System.out.println("restapiauto1");
+		System.out.println("restapiauto2");
 	}
 	
 	@Test
